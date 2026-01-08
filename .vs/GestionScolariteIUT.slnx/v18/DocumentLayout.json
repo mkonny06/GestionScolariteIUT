@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|c:\\users\\0\\documents\\visual studio 18\\gestionscolariteiut\\page_d_accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|solutionrelative:page_d_accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|c:\\users\\0\\documents\\visual studio 18\\gestionscolariteiut\\page_d_accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|solutionrelative:page_d_accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\gestiondupersonnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|solutionrelative:gestiondupersonnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|c:\\users\\0\\documents\\visual studio 18\\gestionscolariteiut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\gestiondescomptes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|solutionrelative:gestiondescomptes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|c:\\users\\0\\documents\\visual studio 18\\gestionscolariteiut\\gestiondupersonnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|solutionrelative:gestiondupersonnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|c:\\users\\0\\documents\\visual studio 18\\gestionscolariteiut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|c:\\users\\0\\documents\\visual studio 18\\gestionscolariteiut\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3A429C-5943-401D-7273-1750F1F1B38E}|GestionScolariteIUT.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\Form1.cs [Conception]",
+              "RelativeToolTip": "Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:33:54.215Z",
+              "IsPinned": true,
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionDuPersonnel.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\GestionDuPersonnel.cs",
+              "RelativeDocumentMoniker": "GestionDuPersonnel.cs",
+              "ToolTip": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\GestionDuPersonnel.cs [Conception]",
+              "RelativeToolTip": "GestionDuPersonnel.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:35:35.31Z",
+              "IsPinned": true,
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page_d_accueil.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\Page_d_accueil.cs",
+              "RelativeDocumentMoniker": "Page_d_accueil.cs",
+              "ToolTip": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\Page_d_accueil.cs [Conception]",
+              "RelativeToolTip": "Page_d_accueil.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:31:36.789Z",
+              "IsPinned": true,
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gestionDesComptes.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\gestionDesComptes.cs",
+              "RelativeDocumentMoniker": "gestionDesComptes.cs",
+              "ToolTip": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\gestionDesComptes.cs [Conception]",
+              "RelativeToolTip": "gestionDesComptes.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:38:52.092Z",
+              "IsPinned": true,
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestionDuPersonnel.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\GestionDuPersonnel.cs",
+              "RelativeDocumentMoniker": "GestionDuPersonnel.cs",
+              "ToolTip": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\GestionDuPersonnel.cs",
+              "RelativeToolTip": "GestionDuPersonnel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:12:08.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page_d_accueil.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\Page_d_accueil.cs",
+              "RelativeDocumentMoniker": "Page_d_accueil.cs",
+              "ToolTip": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\Page_d_accueil.cs",
+              "RelativeToolTip": "Page_d_accueil.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:57:45.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA4wCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:24:10.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\UserControl1.cs",
+              "RelativeToolTip": "UserControl1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T10:25:17.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\0\\Documents\\Visual Studio 18\\GestionScolariteIUT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:09:44.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

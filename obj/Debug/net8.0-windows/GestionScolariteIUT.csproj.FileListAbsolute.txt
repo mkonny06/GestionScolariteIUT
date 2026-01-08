@@ -1,0 +1,23 @@
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\bin\Debug\net8.0-windows\GestionScolariteIUT.exe
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\bin\Debug\net8.0-windows\GestionScolariteIUT.deps.json
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\bin\Debug\net8.0-windows\GestionScolariteIUT.runtimeconfig.json
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\bin\Debug\net8.0-windows\GestionScolariteIUT.dll
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\bin\Debug\net8.0-windows\GestionScolariteIUT.pdb
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.Form1.resources
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.csproj.GenerateResource.cache
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.AssemblyInfoInputs.cache
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.AssemblyInfo.cs
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.csproj.CoreCompileInputs.cache
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.dll
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\refint\GestionScolariteIUT.dll
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.pdb
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.genruntimeconfig.cache
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\ref\GestionScolariteIUT.dll
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.Properties.Resources.resources
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.gestionDesComptes.resources
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.GestionDuPersonnel.resources
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.Page_d_accueil.resources
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.Page d'accueil.resources
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.UserControlDashboar.resources
+C:\Users\0\Documents\Visual Studio 18\GestionScolariteIUT\obj\Debug\net8.0-windows\GestionScolariteIUT.FicheEtudiant.resources
